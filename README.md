@@ -1,0 +1,1 @@
+This project involved refactoring the HTML to make it clearer. Adding in semantic tags made it easier to read and adding alt attributes to each of the images made it more accessible. The CSS Stylesheet was also consolidated.
